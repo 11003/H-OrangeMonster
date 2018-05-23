@@ -1,26 +1,26 @@
-#OrangeMonster_reference
+# OrangeMonster_reference
 
 
 
-###XS
+### XS
 
 ![](https://gss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/2e2eb9389b504fc28ed59baee9dde71191ef6d96.jpg)
 
 
 
-###SM
+### SM
 
 ![](https://gss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/d439b6003af33a87dacf2bb1ca5c10385243b5fe.jpg)
 
 
 
-###MD
+### MD
 
 ![](https://gss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/902397dda144ad341a35ac2cdca20cf430ad8596.jpg)
 
 
 
-##媒体查询
+## 媒体查询
 
 在栅格系统中，我们在 ```Less``` 文件中使用以下媒体查询（media query）来创建关键的分界点阈值。
 
@@ -52,4 +52,4 @@
 
 
 >参考
-![](https://v3.bootcss.com/css/)
+![Bootstrap](https://v3.bootcss.com/css/)
