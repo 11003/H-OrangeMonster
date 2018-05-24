@@ -5,9 +5,9 @@
 
 
 
-1. [XS](#XS)
-2. [SM](#SM)
-3. [MD](#MD)
+1. [XS](##XS)
+2. [SM](##SM)
+3. [MD](##MD)
 4. [媒体查询](#媒体查询)
 5. [栅格系统](#栅格系统)
 
@@ -73,7 +73,7 @@
 
 
 
-##栅格参数
+## 栅格系统
 
 ![](https://gss0.baidu.com/-vo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/b03533fa828ba61e2d4ddd844d34970a314e59fd.jpg)
 
